@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "es6"
+  },
+  "include": [
+    "*.ts"
+  ]
+}
+//puedes compilar utilizando el comando tsc -w
